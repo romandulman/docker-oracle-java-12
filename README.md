@@ -1,1 +1,1 @@
-# docker-oracle-java12
+# Oracle Java 12 JDK Docker base image
