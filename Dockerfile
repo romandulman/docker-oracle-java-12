@@ -1,9 +1,9 @@
 FROM ubuntu:18.04
 
-LABEL "org.label-schema.vendor"="OPOTEL Ltd" \
+LABEL "org.label-schema.vendor"=Oracle" \
     version="1.0" \
-    maintainer="dev@opotel.com" \
-    description="Oracle Java 12"
+    maintainer="Roman Dulman" \
+    description="Oracle Java 12 JDK"
     
 # Install Java
 RUN apt-get update && \
